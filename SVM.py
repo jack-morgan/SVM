@@ -6,7 +6,6 @@ from numpy import linalg
 
 class SVM(object):
 
-    print('hello')
 #Parameters:
 
 # Kernel: The type of kernel to be used for the SVM
